@@ -20,8 +20,8 @@
     <a href="https://twitter.com/sebas_dg" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebas_dg" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/sebastian d. gonzález" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian d. gonzález" height="30" width="40" />
+    <a href="https://linkedin.com/in/sebastian-d-gonzalez" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-d-gonzalez" height="30" width="40" />
     </a>
     <a href="https://instagram.com/sebas_dg2002" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebas_dg2002" height="30" width="40" />
